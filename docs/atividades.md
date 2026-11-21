@@ -32,9 +32,9 @@ atividade está, quem fez e onde está o código.
 | [MiniKube](https://insper.github.io/platform/2026.2/exercises/minikube/){target="_blank"} | `k8s/k8s.yaml` de cada serviço (ConfigMap, Deployment, Service; Secrets criados fora do Git) rodando no mesmo cluster: Kubernetes do Docker Desktop em 08/11 e EKS em 08/11 e 16/11 | **eu** (account, auth, notification) e Leonardo (gateway) |
 | [Bottlenecks](https://insper.github.io/platform/2026.2/exercises/bottlenecks/){target="_blank"} | 7 no grupo, 2 meus | [Meus bottlenecks](bottlenecks.md) |
 | [Projeto: AWS](https://insper.github.io/platform/2026.2/exercises/project/aws/){target="_blank"} | feito | **eu**: [AWS](projeto/aws.md) |
-| [Projeto: EKS](https://insper.github.io/platform/2026.2/exercises/project/eks/){target="_blank"} | feito; falta a rodada final com o teste de carga do grupo | **eu**: [EKS](projeto/eks.md) |
+| [Projeto: EKS](https://insper.github.io/platform/2026.2/exercises/project/eks/){target="_blank"} | feito; o teste de carga do grupo com HPA rodou no `eks-store` em 19/11 e a demonstração do vídeo em 20/11 | **eu**: [EKS](projeto/eks.md) |
 | [Projeto: CI/CD](https://insper.github.io/platform/2026.2/exercises/project/ci-cd/){target="_blank"} | feito | Leonardo (eu: OIDC e o deploy dos meus serviços) |
-| [Projeto: Load Testing](https://insper.github.io/platform/2026.2/exercises/project/load-testing/){target="_blank"} e [Costs & PaaS](https://insper.github.io/platform/2026.2/exercises/project/costs/){target="_blank"} | feitos no compose e num cluster kind; falta a rodada no EKS | Gabriel |
+| [Projeto: Load Testing](https://insper.github.io/platform/2026.2/exercises/project/load-testing/){target="_blank"} e [Costs & PaaS](https://insper.github.io/platform/2026.2/exercises/project/costs/){target="_blank"} | feitos no compose, num cluster kind e no EKS (19/11, HPA de 2 para 6 réplicas): [resultado](https://pna26.github.io/platform/pt/devops/load-testing/){target="_blank"} | Gabriel |
 
 ## Código-fonte
 

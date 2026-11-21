@@ -20,12 +20,10 @@ implementei, os meus dois bottlenecks, os hands-on e exercícios, e os links de 
 
 ## Vídeo de apresentação (1–2 min)
 
-!!! warning "Em gravação"
+<video controls preload="metadata" width="100%" src="assets/apresentacao-pna26.mp4"></video>
 
-    O vídeo do grupo é gravado com a plataforma no EKS (roteiro em [Apresentação](apresentacao.md)) e
-    entra aqui assim que estiver pronto.
-
-<!-- vídeo: <iframe width="100%" height="470" src="https://www.youtube.com/embed/<id>" allowfullscreen></iframe> -->
+Vídeo do grupo (1 min 45 s, sem narração, com legendas), gravado em 20/11/2026 com a plataforma no
+`eks-store`. Roteiro e o que aparece em cada cena: [Apresentação](apresentacao.md).
 
 ## Entregas
 
@@ -37,7 +35,7 @@ implementei, os meus dois bottlenecks, os hands-on e exercícios, e os links de 
 - [x] Bottleneck 2: autorização com RBAC, em [Meus bottlenecks](bottlenecks.md#autorizacao-rbac)
 - [x] Hands-on e exercícios: [Hands-on e exercícios](atividades.md)
 - [x] Uso de IA documentado: [Uso de IA](uso-de-ia.md)
-- [ ] Vídeo do grupo (1–2 min)
+- [x] Vídeo do grupo (1–2 min): [acima](#video-de-apresentacao-12-min) e em [Apresentação](apresentacao.md)
 
 ## O que eu fiz
 
